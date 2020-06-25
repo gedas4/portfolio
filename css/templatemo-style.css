@@ -444,6 +444,12 @@ figure.effect-honey:hover h2 i {
   margin-bottom: 75px;
 }
 
+.calend{
+  border: solid 1px #777;
+  width: 800px;
+  height: 600px;
+}
+
 .tm-contact-item-link {
   display: flex;
   align-items: center;
